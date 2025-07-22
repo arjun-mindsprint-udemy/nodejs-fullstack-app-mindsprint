@@ -9,4 +9,4 @@ spec:
   owner: development
   lifecycle: experimental
   providesApis:
-    - llm-api
+    - embedding-api
