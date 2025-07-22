@@ -6,6 +6,7 @@ metadata:
 spec:
   type: service
   owner: development
+  system: ai-backend
   lifecycle: experimental
   providesApis:
     - data-prep-api
