@@ -5,7 +5,7 @@ metadata:
   description: Handles data preparation logic, such as chunking
 spec:
   type: service
-  owner: development
+  owner: AI
   system: ai-backend
   lifecycle: experimental
   providesApis:
