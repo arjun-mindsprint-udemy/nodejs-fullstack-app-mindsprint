@@ -6,7 +6,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: development
+  owner: AI
   system: ai-backend
   definition:
     $text: ./swagger.json
